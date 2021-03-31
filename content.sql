@@ -1,2 +1,2 @@
 SELECT * from hepyr;
-SELECT * from smwyg;
+SELECT * from ikjbi;
